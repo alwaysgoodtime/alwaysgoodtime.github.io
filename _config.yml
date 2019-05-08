@@ -19,10 +19,10 @@ sidebar-avatar: /img/avatar-m     # use absolute URL, seeing it's used in both `
 # SNS settings
 RSS: false
 weibo_username:     goodtime12345
-zhihu_username:     people/hao-shuai-99-78
+zhihu_username:     hao-shuai-99-78
 github_username:    alwaysgoodtime
 facebook_username:  hjy516619223@gmail.com
-jianshu_username:   e71990ada2fd
+#jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
 

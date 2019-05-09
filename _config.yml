@@ -18,7 +18,7 @@ sidebar-avatar: /img/avatar-by.jpg     # use absolute URL, seeing it's used in b
 
 # SNS settings
 RSS: false
-weibo_username:     goodtime12345
+#weibo_username:     goodtime12345
 zhihu_username:     hao-shuai-99-78
 github_username:    alwaysgoodtime
 wechat_username:    晴天补习班

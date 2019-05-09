@@ -21,7 +21,7 @@ RSS: false
 weibo_username:     goodtime12345
 zhihu_username:     hao-shuai-99-78
 github_username:    alwaysgoodtime
-
+wechat_username:    晴天补习班
 #facebook_username:  
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
@@ -79,7 +79,7 @@ gitalk:
 
 # Google Analytics
 ga_track_id: 'UA-139911579-1'            # Format: UA-xxxxxx-xx
-ga_domain: sunnyschools.club             # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: www.sunnyschools.club             # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 

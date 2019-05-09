@@ -183,7 +183,7 @@ layout: default
                                 </a>
                             </li>
                             {% endif %}
-<!--                             {% if site.github_username %}
+                            <!--{% if site.github_username %}
                             <li>
                                 <a target="_blank" href="https://github.com/{{ site.github_username }}">
                                     <span class="fa-stack fa-lg">
@@ -193,16 +193,28 @@ layout: default
                                 </a>
                             </li>
                             {% endif %} -->
-			    {% if site.wechat_username %}
-			    <li>
-				<a target="_blank" href="https://weixin.sogou.com/weixin?type=1&s_from=input&query={{ site.wechat_username }}&ie=utf8&_sug_=n&_sug_type_=">
-					<span class="fa-stack fa-lg">
-					    <i class="fa fa-circle fa-stack-2x"></i>
-					    <i class="fa fa-weixin fa-stack-1x fa-inverse"></i>
-				    </span>
-	                         </a>
-			     </li>
-			     {% endif %}
+            			    {% if site.wechat_username %}
+            			    <li>
+            				<a target="_blank" href="https://weixin.sogou.com/weixin?type=1&s_from=input&query={{ site.wechat_username }}&ie=utf8&_sug_=n&_sug_type_=">
+            					<span class="fa-stack fa-lg">
+            					    <i class="fa fa-circle fa-stack-2x"></i>
+            					    <i class="fa fa-weixin fa-stack-1x fa-inverse"></i>
+            				    </span>
+            	                         </a>
+            			     </li>
+            			     {% endif %}
+
+           
+                            {% if site.bilibili_username %}
+                            <li>
+                                <a target="_blank" href="https://www.space.bilibili.com/{{ site.bilibili_username }}">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fa fa-circle fa-stack-2x"></i>
+                                        <i class="fa  fa-stack-1x fa-inverse">B</i>
+                                    </span>
+                                </a>
+                            </li>
+                            {% endif %}
                 
                         </ul>
                         {% if site.email %}

@@ -7,9 +7,9 @@ author:     晴天补习班
 header-img: img/second.jpg
 catalog: true
 tags:
-    - 家庭教育
-    - 青少年
-	- 小组模式
+- 家庭教育
+- 青少年
+- 小组模式
 ---
 
 ## 00 简介
